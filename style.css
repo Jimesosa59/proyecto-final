@@ -1,0 +1,9 @@
+.entrada{
+    display: flex;
+    flex-direction: column;
+}
+#contenedor {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
